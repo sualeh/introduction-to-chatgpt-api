@@ -4,6 +4,7 @@
   ],
   "python.testing.unittestEnabled": false,
   "python.testing.pytestEnabled": true,
+  "notebook.output.wordWrap": true,
   "git.confirmSync": false,
   "git.postCommitCommand": "sync",
   "git.autoStash": true,
@@ -12,5 +13,6 @@
     "commit": false,
     "publish": false,
     "sync": false
-  }
+  },
+  "jupyter.showVariableViewWhenDebugging": true
 }
