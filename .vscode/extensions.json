@@ -2,7 +2,6 @@
   "recommendations": [
     "bierner.markdown-footnotes",
     "EditorConfig.EditorConfig",
-    "Katsute.settings-repository",
     "ms-python.black-formatter",
     "ms-python.pylint",
     "ms-python.python",
@@ -12,7 +11,8 @@
     "ms-toolsai.jupyter-renderers",
     "ms-toolsai.vscode-jupyter-cell-tags",
     "ms-toolsai.vscode-jupyter-slideshow",
-    "zeshuaro.vscode-python-poetry"
+    "zeshuaro.vscode-python-poetry",
+    "marp-team.marp-vscode"
   ],
   "unwantedRecommendations": []
 }
