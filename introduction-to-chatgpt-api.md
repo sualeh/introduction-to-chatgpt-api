@@ -4,6 +4,7 @@ draft: true
 theme: uncover
 headingDivider: 2
 paginate: true
+footer: 'Introduction to ChatGPT API - Sualeh Fatehi'
 style: |
   section {
     text-align: left;
