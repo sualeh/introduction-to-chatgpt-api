@@ -93,4 +93,4 @@ _class:
 - Model capabilities as function calls 
   - Function name and arguments
   - Comments (like javadocs or XML documentation)
-- ChatGPT will tell you which function will satisfy a prompt
+- ChatGPT will recommend a function will satisfy a prompt
