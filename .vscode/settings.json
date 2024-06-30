@@ -15,5 +15,5 @@
     "sync": false
   },
   "jupyter.showVariableViewWhenDebugging": true,
-  "editor.fontSize": 18
+  "editor.fontSize": 14
 }
