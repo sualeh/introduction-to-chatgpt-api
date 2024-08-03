@@ -1,3 +1,5 @@
+> **:star: Star it :arrow_heading_up: if you love it!**
+> 
 # Introduction to ChatGPT API in Python
 
 ## Overview
