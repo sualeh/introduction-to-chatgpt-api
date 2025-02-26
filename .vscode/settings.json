@@ -1,20 +1,29 @@
 {
-  "python.testing.pytestArgs": [
-    "."
-  ],
-  "python.testing.unittestEnabled": false,
-  "python.testing.pytestEnabled": true,
-  "notebook.output.wordWrap": true,
-  "git.confirmSync": false,
-  "git.postCommitCommand": "sync",
-  "git.autoStash": true,
-  "scm.showActionButton": false,
-  "git.showActionButton": {
-    "commit": false,
-    "publish": false,
-    "sync": false
-  },
-  "jupyter.showVariableViewWhenDebugging": true,
-  "editor.fontSize": 14,
-  "cSpell.checkOnlyEnabledFileTypes": true
+	"editor.fontSize": 14,
+	"git.autoStash": true,
+	"git.confirmSync": false,
+	"git.postCommitCommand": "sync",
+	"git.showActionButton": {
+		"commit": false,
+		"publish": false,
+		"sync": false
+	},
+	"jupyter.showVariableViewWhenDebugging": true,
+	"notebook.lineNumbers": "on",
+	"notebook.output.scrolling": true,
+	"notebook.output.wordWrap": true,
+	"python.testing.pytestArgs": [
+		"."
+	],
+	"python.testing.pytestEnabled": true,
+	"python.testing.unittestEnabled": false,
+	"scm.showActionButton": false,
+	"scm.showInputActionButton": false,
+	"todomd.autoArchiveTasks": true,
+	"todomd.autoBumpRecurringOverdueDate": true,
+	"todomd.completionDateIncludeTime": true,
+	"todomd.defaultArchiveFile": "${workspaceFolder}/todo.archive.md",
+	"todomd.defaultFile": "${workspaceFolder}/todo.md",
+	"todomd.defaultSomedayFile": "${workspaceFolder}/someday.md",
+	"window.zoomLevel": 1.2
 }
