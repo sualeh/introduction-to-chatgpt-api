@@ -10,6 +10,7 @@
 	},
 	"jupyter.showVariableViewWhenDebugging": true,
 	"notebook.lineNumbers": "on",
+	"notebook.output.fontSize": 14,
 	"notebook.output.scrolling": true,
 	"notebook.output.wordWrap": true,
 	"python.testing.pytestArgs": [
